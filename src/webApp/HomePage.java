@@ -10,5 +10,6 @@ public class HomePage {
 
     // add more features
 
+    // add second logo
 
 }
