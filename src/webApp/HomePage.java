@@ -8,5 +8,7 @@ public class HomePage {
 
     // logo
 
+    // add more features
+
 
 }
